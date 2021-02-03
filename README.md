@@ -1,2 +1,2 @@
 # hello_world
-学习GITHUB
+学习怎么使用GITHUB
